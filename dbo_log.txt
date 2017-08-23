@@ -1,0 +1,99 @@
+__________________________________________________________________________
+
+InstallAnywhere 2012
+Version: 14.0
+__________________________________________________________________________
+
+Thu Oct 27 14:30:42 EEST 2016
+
+Free Memory: 11986 kB
+Total Memory: 15872 kB
+
+No Arguments
+
+java.class.path:
+    C:\Users\Yurs\AppData\Local\Temp\I1477567826\InstallerData\IAClasses.zip
+    C:\Users\Yurs\AppData\Local\Temp\I1477567826\InstallerData\Execute.zip
+    C:\Users\Yurs\AppData\Local\Temp\I1477567826\Windows\InstallerData\Execute.zip
+    C:\Users\Yurs\AppData\Local\Temp\I1477567826\InstallerData\Resource1.zip
+    C:\Users\Yurs\AppData\Local\Temp\I1477567826\Windows\InstallerData\Resource1.zip
+    C:\Users\Yurs\AppData\Local\Temp\I1477567826\InstallerData
+    C:\Users\Yurs\AppData\Local\Temp\I1477567826\Windows\InstallerData
+
+ZGUtil.CLASS_PATH:
+    C:\Users\Yurs\AppData\Local\Temp\I1477567826\InstallerData\IAClasses.zip
+    C:\Users\Yurs\AppData\Local\Temp\I1477567826\InstallerData\Execute.zip
+    C:\Users\Yurs\AppData\Local\Temp\I1477567826\InstallerData
+
+sun.boot.class.path:
+    C:\Users\Yurs\AppData\Local\Temp\I1477567826\Windows\resource\jre\lib\resources.jar
+    C:\Users\Yurs\AppData\Local\Temp\I1477567826\Windows\resource\jre\lib\rt.jar
+    C:\Users\Yurs\AppData\Local\Temp\I1477567826\Windows\resource\jre\lib\sunrsasign.jar
+    C:\Users\Yurs\AppData\Local\Temp\I1477567826\Windows\resource\jre\lib\jsse.jar
+    C:\Users\Yurs\AppData\Local\Temp\I1477567826\Windows\resource\jre\lib\jce.jar
+    C:\Users\Yurs\AppData\Local\Temp\I1477567826\Windows\resource\jre\lib\charsets.jar
+    C:\Users\Yurs\AppData\Local\Temp\I1477567826\Windows\resource\jre\lib\jfr.jar
+    C:\Users\Yurs\AppData\Local\Temp\I1477567826\Windows\resource\jre\classes
+
+java.ext.dirs:
+    C:\Users\Yurs\AppData\Local\Temp\I1477567826\Windows\resource\jre\lib\ext
+    C:\Windows\Sun\Java\lib\ext
+
+java.version                  == 1.8.0_72 (Java 1)
+java.vm.name                  == Java HotSpot(TM) Client VM
+java.vm.vendor                == Oracle Corporation
+java.vm.version               == 25.72-b15
+java.vm.specification.name    == Java Virtual Machine Specification
+java.vm.specification.vendor  == Oracle Corporation
+java.vm.specification.version == 1.8
+java.specification.name       == Java Platform API Specification
+java.specification.vendor     == Oracle Corporation
+java.specification.version    == 1.8
+java.vendor                   == Oracle Corporation
+java.vendor.url               == http://java.oracle.com/
+java.class.version            == 52.0
+java.compiler                 == null
+java.home                     == C:\Users\Yurs\AppData\Local\Temp\I1477567826\Windows\resource\jre
+java.io.tmpdir                == C:\Users\Yurs\AppData\Local\Temp\
+os.name                       == Windows 7
+os.arch                       == x86
+os.version                    == 6.1
+path.separator                == ;
+file.separator                == \
+file.encoding                 == Cp1252
+user.name                     == Yurs
+user.home                     == C:\Users\Yurs
+user.dir                      == C:\Users\Yurs\AppData\Local\Temp\I1477567826\Windows
+user.language                 == en
+user.region                   == null
+__________________________________________________________________________
+
+
+
+
+
+
+
+Loading externalized properties
+
+
+System's temporary directory = C:\Users\Yurs\AppData\Local\Temp
+key HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\IDERA DB Optimizer 2016.5 doesn't exist
+#
+# INSTALLING VM: C:\Program Files\IDERA\DB Optimizer 2016.5\jre
+#
+XMLScriptWriter: No Installation Objects were skipped
+Retrying Installables deferred in pass 0
+Deferral retries done because: 
+There were no deferrals in the last pass.
+SHUTDOWN REQUESTED
+(X) commiting registry
+
+REGISTRY ALREADY STORED!
+
+(X) shutting down service manager
+(X) cleaning up temporary directories
+Exiting with exit code: 0
+cleanUp()
+calling cleanUpWin32()
+
